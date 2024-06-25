@@ -1,0 +1,107 @@
+8
+Neil Diamond
+Greatest Hits
+1968
+2
+3
+Crackling Rose
+sounds/01-Cracklin-rose.wav
+Soolaimon
+sounds/Soolaimon.wav
+Sweet Caroline
+sounds/SweetCaroline.wav
+album_covers/NeilDiamondGreatestHits.jpeg
+album_covers/NeilDiamondSmall.jpeg
+Platters
+Greatest Hits
+1991
+1
+2
+Twilight Time
+sounds/TwilightTime.wav
+The Great Pretender
+sounds/TheGreatPretender.wav
+album_covers/PlattersGreatestHits.jpeg
+album_covers/PlattersSmall.jpeg
+Don McClean
+American Pie
+1971
+2
+0
+album_covers/DonMcCleanAmericanPie.jpeg
+album_covers/DonMcCleanSmall.jpeg
+Carly Simon
+No Secrets
+1972
+2
+3
+The Carter Family
+sounds/TheCarterFamily.wav
+Your So Vain
+sounds/You'reSoVain.wav
+Embrace me You Child
+sounds/EmbraceMeYouChild.wav
+album_covers/CarlySimonGreatestHits.jpeg
+album_covers/CarlySimonSmall.jpeg
+Billy Joel
+Piano Man
+1973
+4
+3
+Piano Man
+sounds/PianoMan.wav
+Ain't No Crime
+sounds/Ain'tNoCrime.wav
+Worse Comes to Worst
+sounds/WorseComesToWorst.wav
+album_covers/BillyJoelPianoMan.jpeg
+album_covers/BillyJoelSmall.jpeg
+Radiohead
+The Bends
+1995
+4
+3
+Fake Plastic Trees
+sounds/FakePlasticTrees.wav
+The Bends
+sounds/TheBends.wav
+Killer Cars
+sounds/KillerCars.wav
+album_covers/RadioheadTheBends.jpeg
+album_covers/RadioheadSmall.jpeg
+Bruce Springsteen
+Born In The U.S.A.
+1984
+4
+5
+Born In The U.S.A.
+sounds/BornInTheUSA.wav
+I'm On Fire
+sounds/I'mOnFire.wav
+Glory Days
+sounds/GloryDays.wav
+Dancing In the Dark
+sounds/DancingInTheDark.wav
+My Hometown
+sounds/MyHometown.wav
+album_covers/BruceSpringsteenBornInTheUSA.jpeg
+album_covers/BruceSpringsteenSmall.jpeg
+Snow Patrol
+Eyes Open
+2006
+4
+6
+You're All I Have
+sounds/You'reAllIHave.wav
+Chasing Cars
+sounds/ChasingCars.wav
+Shut Your Eyes
+sounds/ShutYourEyes.wav
+You Could Be Happy
+sounds/YouCouldBeHappy.wav
+Set The Fire To The Third Bar
+sounds/SetTheFireToTheThirdBar.wav
+Open Your Eyes
+sounds/OpenYourEyes.wav
+album_covers/SnowPatrolEyesOpen.jpeg
+album_covers/SnowPatrolSmall.jpeg
